@@ -1,0 +1,12 @@
+variavel,descricao,tipo,subtipo
+winery,Nome da vinícola,qualitativa,nominal
+wine,Nome do vinho,qualitativa,nominal
+year,Ano em que as uvas foram colhidas,quantitativa,discreta
+rating,Avaliação média dada ao vinho pelos usuários [de 1-5],quantitativa,contínua
+num_reviews,Número de usuários que avaliaram o vinho,quantitativa,discreta
+country,País de origem [Espanha],qualitativa,nominal
+region,Região do vinho,qualitativa,nominal
+price,Preço em euros [€],quantitativa,contínua
+type,Variedade de vinho,qualitativa,nominal
+body,"Pontuação de corpo, definida como a riqueza e peso do vinho na boca [de 1-5]",quantitativa,contínua
+acidity,"Pontuação de acidez, definida como o frescor e a sensação de 'salivação' do vinho [de 1-5]",quantitativa,contínua
