@@ -8,5 +8,5 @@ country,País de origem [Espanha],qualitativa,nominal
 region,Região do vinho,qualitativa,nominal
 price,Preço em euros [€],quantitativa,contínua
 type,Variedade de vinho,qualitativa,nominal
-body,"Pontuação de corpo, definida como a riqueza e peso do vinho na boca [de 1-5]",quantitativa,contínua
-acidity,"Pontuação de acidez, definida como o frescor e a sensação de 'salivação' do vinho [de 1-5]",quantitativa,contínua
+body,"Pontuação de corpo, definida como a riqueza e peso do vinho na boca [de 1-5]",qualitativa,ordinal
+acidity,"Pontuação de acidez, definida como o frescor e a sensação de 'salivação' do vinho [de 1-5]",qualitativa,ordinal
