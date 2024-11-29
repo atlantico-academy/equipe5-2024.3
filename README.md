@@ -8,7 +8,7 @@ A análise dos dados transcende o foco exclusivamente comercial, abordando aspec
 
 Aplicar técnicas de ciência de dados em um contexto enológico permite expandir as habilidades dos envolvidos, utilizando ferramentas de análise de dados para revelar tendências e correlações na indústria do vinho. Essa abordagem interdisciplinar aprimora a compreensão das características dos vinhos e demonstra a versatilidade da ciência de dados para resolver questões em áreas como a agricultura e a cultura.
 
-![images/logo/image.png](images/logo/image.png)
+![alt text](images/logo/VinhosEspanhois.jpg)
 
 ## Desenvolvedores
  - [Layssa Rodrigues](https://github.com/laayrd)
