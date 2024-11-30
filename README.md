@@ -25,6 +25,25 @@ Aplicar técnicas de ciência de dados em um contexto enológico permite expandi
 <img align="center" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="icon scikit-learn">
 </div>
 
+## 📋 Atributos do Dataset:
+
+📍 [Link para download do dataset](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)
+
+| **Coluna**         | **Descrição**                                                                                       |
+|--------------------|---------------------------------------------------------------------------------------------------|
+| **winery**         | Nome da vinícola que produziu o vinho.                                                            |
+| **wine**           | Nome específico ou rótulo do vinho produzido pela vinícola.                                       |
+| **year**           | Ano de produção do vinho.                                                                         |
+| **rating**         | Avaliação média do vinho, geralmente em uma escala de 1 a 5, baseada em opiniões de consumidores. |
+| **num_reviews**    | Número total de avaliações que o vinho recebeu.                                                   |
+| **country**        | País onde o vinho foi produzido.                                                                  |
+| **region**         | Região específica dentro do país onde o vinho foi produzido.                                      |
+| **price**          | Preço do vinho em moeda local (geralmente em dólares ou euros).                                    |
+| **type**           | Tipo do vinho, como tinto, branco, rosé, etc.                                                     |
+| **body**           | Intensidade do corpo do vinho, em uma escala numérica.                                            |
+| **acidity**        | Nível de acidez do vinho, em uma escala numérica.                                                 |
+
+
 ## 🏫 Metodologia:
 
 O Projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os seguintes passos:
