@@ -1,4 +1,4 @@
-# 🍷 Análise e Previsão de Dados de Vinhos Espanhois 
+# 🍷 Análise e Predição de Dados de Vinhos Espanhóis 
 ![alt text](images/logo/logo_data_somelier.png)
 
 ## ⁉️ Introdução:
