@@ -11,6 +11,10 @@ A análise dos dados transcende o foco exclusivamente comercial, abordando aspec
 
 Aplicar técnicas de ciência de dados em um contexto enológico permite expandir as habilidades dos envolvidos, utilizando ferramentas de análise de dados para revelar tendências e correlações na indústria do vinho. Essa abordagem interdisciplinar aprimora a compreensão das características dos vinhos e demonstra a versatilidade da ciência de dados para resolver questões em áreas como a agricultura e a cultura.
 
+<p align="center">
+    <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWc0anJqbnN6N2Vob3BwcTN3aG0ycnk5enUybTRocnl1anM2ODdnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3L5goMMSoAAo/giphy.webp" />
+</p>
+
 ## 📱 Tecnologias utilizadas:
 
 <div align="center" style="display: inline_block">
@@ -56,8 +60,6 @@ O Projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os segu
 ## 🎨 Graphical Abstract:
 
 ![alt text](images/logo/VinhosEspanhois.jpg)
-
-## Etapas do Projeto:
 
 ## 📑 Etapas do Projeto:
 
@@ -126,6 +128,6 @@ Este caderno é voltado para a comparação de modelos de regressão, com o obje
 
 ```
 
-## Conclusão:
+## ✅ Conclusão:
 
 Este projeto demonstrou a aplicação de técnicas de aprendizado de máquina para prever os preços de vinhos com base em características como ano de produção, avaliação média, número de avaliações, país, região, e tipo do vinho. Ao explorar diferentes modelos preditivos, como DummyRegressor, LinearRegression, SVR, e RandomForestRegressor, foi possível avaliar seus desempenhos em termos de capacidade preditiva, variabilidade nas previsões e adequação aos padrões presentes nos dados.
